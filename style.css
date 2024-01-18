@@ -1,0 +1,580 @@
+.hp{
+    height: 2.3em;
+    width: 8em;
+    font-family:sans-serif;
+    font-size:1em;
+    position: relative;
+    left:17em;
+    color:blanchedalmond;
+    background-color:rgb(105,105,105);
+    border-radius:1em;
+    
+}
+#hp1{
+    margin-left:7em
+}
+#hp2{
+    margin-left:7em
+}
+#hp3{
+    margin-left:7em
+}
+#hp4{
+    margin-left:7em
+}
+#hp5{
+    margin-left:7em
+}
+#dem{
+    position: relative;
+    height:55em;
+    width:119em;
+    border-radius: 2em;
+    top:20em
+}
+#KRYPTON{
+    position: relative;
+    font-family: sans-serif;
+    font-size:5em ;
+    top:-9em;
+    left:16em
+}
+#KRYPTON1{
+    position: relative;
+    font-family: sans-serif;
+    font-size:1em ;
+    top:-6em;
+    left:18em
+}
+
+#KRYPTONM{
+    position: relative;
+    font-family: sans-serif;
+    font-size:1.5em ;
+    top:-10em;
+    left:35em;
+    color: rgb(105,105,105);
+}
+#KRYPTONT{
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:1em ;
+    top:11em;
+    left:23em;
+    color: rgb(128,128,128);
+}
+#KRYPTONT1{
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:1em ;
+    top:11em;
+    left:41em;
+    color: rgb(128,128,128);
+}
+#BOX1{
+    position: relative;
+    width: 300px;
+    height: 370px;
+    background-color:rgb(169,169,169);
+    top:15em;
+    left:25em;
+    border-radius: 1.3em;
+}
+
+#BOX2{
+    position: relative;
+    width: 300px;
+    height: 370px;
+    background-color:rgb(169,169,169);
+    top:-8.1em;
+    left:50em;
+    border-radius: 1.3em;
+}
+#BOX3{
+    position: relative;
+    width: 300px;
+    height: 370px;
+    background-color:rgb(169,169,169);
+    top:-31.3em;
+    left:75em;
+    border-radius: 1.3em;
+}
+#buy1{
+    position: relative;
+    top:-36em;
+    left:36em;
+    height: 3em;
+    width: 10em;
+    background-color: rgb(255,0,0);
+    border-radius: 0.4em;
+    font-family:inherit;
+    color:white
+}
+#buy2{
+    position: relative;
+    top:-36em;
+    left:56em;
+    height: 3em;
+    width: 10em;
+    background-color: rgb(255,0,0);
+    border-radius: 0.4em;
+    font-family:inherit;
+    color:white
+}
+#buy3{
+    position: relative;
+    top:-36em;
+    left:76em;
+    height: 3em;
+    width: 10em;
+    background-color: rgb(255,0,0);
+    border-radius: 0.4em;
+    font-family:inherit;
+    color:white
+}
+#More{
+    position: relative;
+    font-family:sans-serif;
+    font-size:1.5em ;
+    top:-18em;
+    left:33.4em;
+    color: rgb(105,105,105);
+}
+#MOREBOX1{
+    position: relative;
+    width: 500px;
+    height: 370px;
+    background-color:rgb(169,169,169);
+    top:-20em;
+    left:24em;
+    border-radius: 0.5em;
+}
+#MOREBOX2{
+    position: relative;
+    width: 500px;
+    height: 370px;
+    background-color:rgb(169,169,169);
+    top:-43.1em;
+    left:63em;
+    border-radius: 0.5em;
+}
+#VIEWALL{
+    position: relative;
+    top:15em;
+    left:68em;
+    height: 2.5em;
+}
+#VIEWALL1{
+    position: relative;
+    top:-30em;
+    left:68em;
+    height: 2.5em;
+}
+#ins{
+    position: relative;
+    height: 2em;
+    top:-7.1em;
+    left:49em
+}
+#insk{
+    position: relative;
+    top:-7.8em;
+    left:8.6em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:1em
+}
+#facek1{
+    position: relative;
+    height: 1.5em;
+    top:-4.8em;
+    left:47em
+}
+#facek{
+    position: relative;
+    top:-5em;
+    left:-1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:1em
+}
+#tikk1{
+    position: relative;
+    height: 1.5em;
+    top:-2em;
+    left:45.3em
+}
+#tikk{
+    position: relative;
+    top:-2.3em;
+    left:-10em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:1em
+}
+@media (min-width: 414px) {
+    .hp{
+        height: 2.3em;
+        width: 8em;
+        font-family:sans-serif;
+        font-size:1em;
+        position: relative;
+        left:1.5em;
+        color:blanchedalmond;
+        background-color:rgb(105,105,105);
+        border-radius:1em;
+    }
+    #dem{
+        position: relative;
+        height:20em;
+        width:25em;
+        border-radius: 2em;
+        top:20em
+    }
+    #ins{
+        position: relative;
+        height: 2em;
+        top:31.6em;
+        left:6em
+    }
+    #insk{
+        position: relative;
+        top:-7.8em;
+        left:8.6em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:1em
+    }
+    #facek1{
+        position: relative;
+        height: 1.5em;
+        top:34.2em;
+        left:4em
+    }
+    #facek{
+        position: relative;
+        top:-5em;
+        left:-1em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:1em
+    }
+    #tikk1{
+        position: relative;
+        height: 1.5em;
+        top:37em;
+        left:2.2em
+    }
+    #tikk{
+        position: relative;
+        top:-3.3em;
+        left:8.5em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:1em
+    }
+    #KRYPTON1{
+        position: relative;
+        font-family: sans-serif;
+        font-size:1em ;
+        top:-6em;
+        left:1em
+    }
+    
+    #KRYPTONM{
+        position: relative;
+        font-family: sans-serif;
+        font-size:1.5em ;
+        top:-10em;
+        left:5.5em;
+        color: rgb(105,105,105);
+    }
+    #KRYPTONT{
+        position: relative;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:1em ;
+        top:11em;
+        left:1em;
+        color: rgb(128,128,128);
+    }
+    #KRYPTONT1{
+        position: relative;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:1em ;
+        top:11em;
+        left:1em;
+        color: rgb(128,128,128);
+    }
+    #BOX1{
+        position: relative;
+        width: 300px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:15em;
+        left:3em;
+        border-radius: 1.3em;
+    }
+    
+    #BOX2{
+        position: relative;
+        width: 300px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:25em;
+        left:3em;
+        border-radius: 1.3em;
+    }
+    #BOX3{
+        position: relative;
+        width: 300px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:35em;
+        left:3em;
+        border-radius: 1.3em;
+    }
+    #buy1{
+        position: relative;
+        top:-36em;
+        left:9.5em;
+        height: 3em;
+        width: 10em;
+        background-color: rgb(255,0,0);
+        border-radius: 0.4em;
+        font-family:inherit;
+        color:white
+    }
+    #buy2{
+        position: relative;
+        top:4em;
+        left:-1em;
+        height: 3em;
+        width: 10em;
+        background-color: rgb(255,0,0);
+        border-radius: 0.4em;
+        font-family:inherit;
+        color:white
+    }
+    #buy3{
+        position: relative;
+        top:41em;
+        left:9em;
+        height: 3em;
+        width: 10em;
+        background-color: rgb(255,0,0);
+        border-radius: 0.4em;
+        font-family:inherit;
+        color:white
+    }
+}
+@media (min-width: 1000px){
+    .hp{
+        height: 2.3em;
+        width: 8em;
+        font-family:sans-serif;
+        font-size:1em;
+        position: relative;
+        left:17em;
+        color:blanchedalmond;
+        background-color:rgb(105,105,105);
+        border-radius:1em;
+        
+    }
+    #hp1{
+        margin-left:7em
+    }
+    #hp2{
+        margin-left:7em
+    }
+    #hp3{
+        margin-left:7em
+    }
+    #hp4{
+        margin-left:7em
+    }
+    #hp5{
+        margin-left:7em
+    }
+    #dem{
+        position: relative;
+        height:55em;
+        width:119em;
+        border-radius: 2em;
+        top:20em
+    }
+    #KRYPTON{
+        position: relative;
+        font-family: sans-serif;
+        font-size:5em ;
+        top:-9em;
+        left:16em
+    }
+    #KRYPTON1{
+        position: relative;
+        font-family: sans-serif;
+        font-size:1em ;
+        top:-6em;
+        left:18em
+    }
+    
+    #KRYPTONM{
+        position: relative;
+        font-family: sans-serif;
+        font-size:1.5em ;
+        top:-10em;
+        left:35em;
+        color: rgb(105,105,105);
+    }
+    #KRYPTONT{
+        position: relative;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:1em ;
+        top:11em;
+        left:23em;
+        color: rgb(128,128,128);
+    }
+    #KRYPTONT1{
+        position: relative;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:1em ;
+        top:11em;
+        left:41em;
+        color: rgb(128,128,128);
+    }
+    #BOX1{
+        position: relative;
+        width: 300px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:15em;
+        left:25em;
+        border-radius: 1.3em;
+    }
+    
+    #BOX2{
+        position: relative;
+        width: 300px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:-8.1em;
+        left:50em;
+        border-radius: 1.3em;
+    }
+    #BOX3{
+        position: relative;
+        width: 300px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:-31.3em;
+        left:75em;
+        border-radius: 1.3em;
+    }
+    #buy1{
+        position: relative;
+        top:-36em;
+        left:36em;
+        height: 3em;
+        width: 10em;
+        background-color: rgb(255,0,0);
+        border-radius: 0.4em;
+        font-family:inherit;
+        color:white
+    }
+    #buy2{
+        position: relative;
+        top:-36em;
+        left:56em;
+        height: 3em;
+        width: 10em;
+        background-color: rgb(255,0,0);
+        border-radius: 0.4em;
+        font-family:inherit;
+        color:white
+    }
+    #buy3{
+        position: relative;
+        top:-36em;
+        left:76em;
+        height: 3em;
+        width: 10em;
+        background-color: rgb(255,0,0);
+        border-radius: 0.4em;
+        font-family:inherit;
+        color:white
+    }
+    #More{
+        position: relative;
+        font-family:sans-serif;
+        font-size:1.5em ;
+        top:-18em;
+        left:33.4em;
+        color: rgb(105,105,105);
+    }
+    #MOREBOX1{
+        position: relative;
+        width: 500px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:-20em;
+        left:24em;
+        border-radius: 0.5em;
+    }
+    #MOREBOX2{
+        position: relative;
+        width: 500px;
+        height: 370px;
+        background-color:rgb(169,169,169);
+        top:-43.1em;
+        left:63em;
+        border-radius: 0.5em;
+    }
+    #VIEWALL{
+        position: relative;
+        top:15em;
+        left:68em;
+        height: 2.5em;
+    }
+    #VIEWALL1{
+        position: relative;
+        top:-30em;
+        left:68em;
+        height: 2.5em;
+    }
+    #ins{
+        position: relative;
+        height: 2em;
+        top:-7.1em;
+        left:49em
+    }
+    #insk{
+        position: relative;
+        top:-7.8em;
+        left:8.6em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:1em
+    }
+    #facek1{
+        position: relative;
+        height: 1.5em;
+        top:-4.8em;
+        left:47em
+    }
+    #facek{
+        position: relative;
+        top:-5em;
+        left:-1em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:1em
+    }
+    #tikk1{
+        position: relative;
+        height: 1.5em;
+        top:-2em;
+        left:45.3em
+    }
+    #tikk{
+        position: relative;
+        top:-2.3em;
+        left:-10em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:1em
+    }
+}
+
+
+
+
